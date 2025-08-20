@@ -18,14 +18,14 @@ This repository is where I keep the projects and assignments I’ve completed th
 ## Portfolio Artifact Submission – CS-250  
 
 ### Sprint Review & Retrospective  
-The **Sprint Review & Retrospective** reflects on how Agile and Scrum practices were applied during the SNHU Travel project. This report covers roles, user stories, communication strategies, handling interruptions, and evaluating the Agile process. It shows how Agile allowed us to adapt quickly to changes (like adding a currency converter mid-sprint) and how tools such as Jira, Confluence, and Slack supported collaboration:contentReference[oaicite:0]{index=0}.  
+The **Sprint Review & Retrospective** reflects on how Agile and Scrum practices were applied during the SNHU Travel project. This report covers roles, user stories, communication strategies, handling interruptions, and evaluating the Agile process. It shows how Agile allowed us to adapt quickly to changes (like adding a currency converter mid-sprint) … and how tools such as Jira, Confluence, and Slack supported collaboration.  
 
 *File included in this repo:* `CS 250 Final Project_EbAnderson.docx`  
 
 ---
 
 ### Artifact: Scrum Agile Pilot Presentation  
-The **Scrum Agile Pilot Presentation** visually summarizes the SNHU Travel Agile pilot project. It walks through Agile phases, compares Waterfall vs Agile, and highlights lessons learned. This presentation complements the written retrospective by showing how Agile helped streamline work and deliver value:contentReference[oaicite:1]{index=1}.  
+The **Scrum Agile Pilot Presentation** visually summarizes the SNHU Travel Agile pilot project. It walks through Agile phases, compares Waterfall vs Agile, and highlights lessons learned. This presentation complements the written retrospective … by showing how Agile helped streamline work and deliver value.  
 
 *File included in this repo:* `Scrum Agile Pilot Presentation_EbAnderson.pptx`  
 
